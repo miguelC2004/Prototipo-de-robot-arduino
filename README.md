@@ -12,17 +12,17 @@ Este es un proyecto de prueba para utilizar un Arduino y un módulo Bluetooth pa
 
 ## Configuración
 
-1. Conecta los motores al shield de motor Adafruit AFMotor siguiendo las indicaciones del fabricante.
+1. Conectar los motores al shield de motor Adafruit AFMotor siguiendo las indicaciones del fabricante.
 
-2. Conecta el módulo Bluetooth al Arduino. Asegúrate de que los pines RX y TX estén correctamente conectados.
+2. Conectar el módulo Bluetooth al Arduino. Asegúrate de que los pines RX y TX estén correctamente conectados.
 
-3. Carga el código proporcionado en este repositorio en tu Arduino utilizando el IDE de Arduino.
+3. Cargar el código proporcionado en este repositorio en tu Arduino utilizando el IDE de Arduino.
 
 4. Abrir una aplicación en un smartphone que pueda enviar comandos a través de Bluetooth, como una aplicación de control remoto.
 
 ## Uso
 
-Una vez conectado todo y encendido el Arduino, puedes utilizar una aplicación en tu smartphone para enviar comandos a través de Bluetooth. Los comandos disponibles son:
+Una vez conectado todo y encendido el Arduino, es posible utilizar una app de smartphone para enviar comandos a través de Bluetooth. Los comandos disponibles son:
 
 - `F`: Mover hacia adelante.
 - `B`: Mover hacia atrás.
